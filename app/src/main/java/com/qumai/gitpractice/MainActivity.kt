@@ -19,6 +19,7 @@ class MainActivity : ComponentActivity() {
                 Surface(color = MaterialTheme.colors.background) {
                     Greeting("Android")
                     Text(text = "Git")
+                    Text(text = "This is second message.")
                 }
             }
         }
