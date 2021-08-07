@@ -18,7 +18,7 @@ class MainActivity : ComponentActivity() {
                 // A surface container using the 'background' color from the theme
                 Surface(color = MaterialTheme.colors.background) {
                     Greeting("Android")
-                    Text(text = "Git changed 2")
+                    Text(text = "Git")
                     Text(text = "This is second message.")
                     Text(text = "This is a stashed message.")
                     Text(text = "This is a text from test branch.")
