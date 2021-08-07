@@ -20,6 +20,8 @@ class MainActivity : ComponentActivity() {
                     Greeting("Android")
                     Text(text = "Git")
                     Text(text = "This is second message.")
+                    Text(text = "This is a stashed message.")
+                    Text(text = "This is a text from test branch.")
                 }
             }
         }
